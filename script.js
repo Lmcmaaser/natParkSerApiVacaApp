@@ -2,7 +2,7 @@
 
 // put your own value below!
 const apiKey = '6gpOWdCuaKhk1zXUJRy2FtIMnyRlUcGCuPvardoW'; 
-const baseUrl = 'https://developer.nps.gov/api/v1/parks?';
+const baseUrl = 'https://developer.nps.gov/api/v1/parks';
 
 function eventSubmit() {
     $('form').submit(event => {
